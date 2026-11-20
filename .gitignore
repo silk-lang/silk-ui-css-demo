@@ -1,0 +1,5 @@
+build/
+.silk/
+dist/
+/build/
+/silk.local.toml
